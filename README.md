@@ -1,5 +1,6 @@
 ### I'm Anj, a FullStack developer based in Toronto.
-🐶 Furmom
+#### Currently learning new programming languages
+#### 🐶 Furmom
 
 <!--
 **angeliqueulep/angeliqueulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
