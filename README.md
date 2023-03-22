@@ -1,4 +1,5 @@
-### I'm Anj, a FullStack developer from Manila.
+### I'm Anj, a FullStack developer based in Toronto.
+🐶 Furmom
 
 <!--
 **angeliqueulep/angeliqueulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,10 +46,10 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![](https://raw.githubusercontent.com/angeliqueulep/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
