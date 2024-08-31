@@ -46,11 +46,6 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/angeliqueulep/stats/master/generated/languages.svg#gh-light-mode-only)
-
 
 
 
